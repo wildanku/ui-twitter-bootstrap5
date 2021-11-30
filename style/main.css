@@ -1,0 +1,42 @@
+.twitter-menu li {
+    border: none;
+    font-size: 16pt;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: -20px;
+}
+
+.twitter-menu li i {
+    width: 35px;
+}
+
+.twitter-menu li a {
+    text-decoration: none;
+    color: #000;
+    padding: 15px 10px;
+}
+
+.twitter-menu li a:hover {
+    background-color: #ececec;
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.logo-twitter img:hover {
+    background-color: #dbf1ff;
+    border-radius: 100%;
+}
+
+.feeds {
+    border-left: solid 1px #f0f0f0;
+    border-right: solid 1px #f0f0f0;
+}
+
+.icons {
+    margin-left: 10px;
+}
+
+.icons i {
+    margin-right: 10px;
+}
